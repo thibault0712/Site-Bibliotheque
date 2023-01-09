@@ -1,4 +1,4 @@
-# Site-Biblioyheque
+# Site-Bibliothèque
 Site internet permettant la communication entre un esp32 et une base de donnée
 
 ## Objectifs pour le futur
