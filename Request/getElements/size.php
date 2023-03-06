@@ -7,7 +7,7 @@
         if($total == 1) {
           return $row['Size'];
         }else{
-          return false;
+          return 'false';
         }
     }
 ?>
