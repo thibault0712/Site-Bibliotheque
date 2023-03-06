@@ -7,7 +7,7 @@
 
     if (verificationIdDefine() == true && verificationDatabaseDisponible($conn) == true){
         if (verificationIdentifiantExist($_GET['identifiant']) == true){
-            echo getSize();
+            echo getSize($_GET['identifiant']);
         }else{
             echo "false";
         }
